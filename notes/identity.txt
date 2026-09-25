@@ -1,4 +1,4 @@
 Full Name: James Tuyizere
 GitHub Username: jamestuyizere
 Date Started: 25 September 2026
-Auth Method: PAT
+Auth Method: SSH
