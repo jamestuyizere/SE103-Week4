@@ -1,0 +1,15 @@
+Student Name: James Tuyizere
+GitHub Username: jamestuyizere
+Repository: SE103-Week4
+Repository URL: https://github.com/jamestuyizere/SE103-Week4
+
+What a pull request asks teammates to do:
+A pull request asks teammates to review changes before they are added to the main branch. It gives them a chance to check the work, leave feedback, and approve the changes.
+
+Why branches and pull requests are used together:
+Branches allow developers to work on changes separately from the main project. Pull requests are then used to review those branch changes before merging them into main.
+
+One thing that confused me in this project and how I solved it:
+One thing that confused me was GitHub authentication when I tried to push my repository. I first tried using HTTPS, but I had permission problems with the token. I solved the issue by using my existing SSH key and connecting it to GitHub. After switching the remote repository to SSH, I was able to push my work successfully.
+
+All required files are on main: Yes
