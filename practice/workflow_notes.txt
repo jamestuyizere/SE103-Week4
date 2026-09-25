@@ -1,0 +1,13 @@
+Student Name: James Tuyizere
+
+What editing a file means:
+Editing a file means making changes to its content. For example, I can add new information, correct mistakes, or remove information that is no longer needed.
+
+What staging a file means:
+Staging a file means selecting a changed file that I want Git to include in my next commit. It moves the change into the staging area before I create the commit.
+
+What committing a file means:
+Committing a file means saving a recorded checkpoint of my staged changes in the Git repository. Each commit has a message that helps explain what changes were made.
+
+Why staging is useful:
+Staging is useful because it allows me to choose exactly which changes I want to include in a commit. This is helpful when I have changed several files but do not want to commit all of them at the same time.
