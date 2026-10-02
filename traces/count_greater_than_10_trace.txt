@@ -1,0 +1,16 @@
+Student Name: James Tuyizere
+Sample Input: [4, 15, 10, 22, 8]
+
+Step-by-step trace:
+1. Start with count = 0.
+2. Check 4. Since 4 is not greater than 10, count remains 0.
+3. Check 15. Since 15 is greater than 10, increase count to 1.
+4. Check 10. Since 10 is not greater than 10, count remains 1.
+5. Check 22. Since 22 is greater than 10, increase count to 2.
+6. Check 8. Since 8 is not greater than 10, count remains 2.
+7. The list has been completely checked, so the final count is 2.
+
+Final output: 2
+
+Empty list input: []
+Empty list result: Error: list is empty
