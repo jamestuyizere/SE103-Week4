@@ -1,0 +1,15 @@
+Student Name: James Tuyizere
+GitHub Username: jamestuyizere
+Repository: SE103-Week4
+Repository URL: https://github.com/jamestuyizere/SE103-Week4
+
+What I understand better about algorithms now:
+I understand that an algorithm is a clear sequence of steps used to solve a problem. I have learned that pseudocode helps me plan these steps before writing actual programming code. I also understand that decisions and loops are important because they allow an algorithm to handle different situations and repeat actions when necessary. Writing algorithms has helped me think more carefully about inputs, outputs, and edge cases. I now see that a good algorithm should be clear enough for another person to follow.
+
+How tracing changed my confidence:
+Tracing helped me understand how an algorithm behaves one step at a time. By checking each input and decision, I could see whether the logic produced the expected result. It also showed me how to find mistakes before turning pseudocode into actual code. This made me more confident because I can now test my thinking instead of simply assuming that an algorithm works.
+
+One pseudocode habit I will keep:
+One habit I will keep is making every step specific and ordered. I will clearly define inputs, outputs, decisions, loops, and edge cases before writing code. This will help me avoid vague instructions and make my programs easier to understand and test.
+
+All required files are on main: Yes
