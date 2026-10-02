@@ -1,0 +1,16 @@
+Student Name: James Tuyizere
+GitHub Username: jamestuyizere
+
+Authentication method I used: SSH
+
+Why I chose this method:
+I chose SSH because it allows my computer to securely authenticate with GitHub without requiring me to enter my GitHub password every time I push changes. Once my SSH key is configured and connected to my GitHub account, Git can use that key to verify my identity.
+
+One security habit I must follow with this method:
+I must keep my private SSH key secure and never share it with another person. I should also use a passphrase for my SSH key when possible and protect the computer where the private key is stored.
+
+Difference between a commit and a push:
+A commit records selected changes in my local Git repository and creates a point in the project's history. A commit does not automatically send those changes to GitHub. A push sends my local commits to the remote GitHub repository. Therefore, I can make several commits locally before pushing them to GitHub.
+
+My repository URL:
+https://github.com/jamestuyizere/SE103-Week4
