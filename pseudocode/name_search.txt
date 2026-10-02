@@ -1,0 +1,27 @@
+Student Name: James Tuyizere
+
+Problem:
+Search a list of names for one target name and report whether it was found.
+
+Input:
+- a list of names
+- one target name
+
+Output:
+- "Found" or "Not found"
+- or an error if the list is empty
+
+Pseudocode:
+START
+1. IF the list of names is empty THEN
+       Display "Error: list is empty"
+       STOP
+   END IF
+2. FOR each name in the list DO
+       IF the name matches the target name THEN
+           Display "Found"
+           STOP
+       END IF
+   END FOR
+3. Display "Not found"
+END
