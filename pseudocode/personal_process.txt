@@ -1,0 +1,31 @@
+Student Name: James Tuyizere
+
+Problem:
+I want to prepare my laptop and study materials before starting a study session. I need to make sure that everything I need is ready so I can study without unnecessary interruptions.
+
+Input:
+A laptop, a working internet connection, a study topic, and the required learning materials.
+
+Output:
+A ready study setup where the laptop is working, the required materials are available, and I can begin studying.
+
+Edge Case Handled:
+If the internet connection is not working, I will use downloaded materials or reconnect to the network before starting the study session.
+
+Pseudocode:
+START
+1. Turn on the laptop.
+2. Check that the laptop has enough battery power.
+3. Open the required study materials.
+4. Check the internet connection.
+5. IF the internet connection is working THEN
+       Open the online learning resources.
+   ELSE
+       Use downloaded study materials or reconnect to the network.
+6. Choose the topic I will study.
+7. Arrange the required materials so they are easy to access.
+8. Start the study session.
+END
+
+Why this is clear enough to follow:
+The steps are written in a specific order so that I know what to do first and what to do next. The input explains what must be ready before the process begins. The IF/ELSE decision explains what to do when the internet is unavailable instead of leaving the situation unclear. The output also explains what successful completion of the process looks like.
