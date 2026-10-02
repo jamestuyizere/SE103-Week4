@@ -1,0 +1,32 @@
+Student Name: James Tuyizere
+
+Problem:
+Find which scores failed.
+
+Input:
+a list of student scores
+
+Output:
+the failing scores, or a message if no one failed
+
+Failing rule:
+score < 50
+
+Pseudocode:
+START
+1. IF the list of scores is empty THEN
+       Display "No scores were provided"
+       STOP
+   END IF
+2. Set failing_scores to an empty list.
+3. FOR each score in the list of student scores DO
+       IF score < 50 THEN
+           Add score to failing_scores.
+       END IF
+   END FOR
+4. IF failing_scores is empty THEN
+       Display "No one failed"
+   ELSE
+       Display the failing_scores.
+   END IF
+END
